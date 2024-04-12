@@ -1,4 +1,1 @@
-modified
-this is the first time using git by my self 
-I hope it works...
-let's go
+feature2
